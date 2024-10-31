@@ -1,0 +1,12 @@
+form{
+    text-align: center;
+    margin: auto;
+    width: 600px;
+    border: 1px solid black;
+
+}
+
+input, select{
+    display: black;
+    width: 100%;
+}
